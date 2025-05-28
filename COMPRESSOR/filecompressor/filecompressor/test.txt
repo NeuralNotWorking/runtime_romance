@@ -1,4 +1,0 @@
-In the world of data compression, Huffman coding stands as one of the most elegant and efficient methods. 
-By assigning shorter binary codes to more frequently occurring characters, it minimizes the overall space 
-required to store or transmit data. This technique is widely used in formats such as JPEG, MP3, and ZIP. 
-The beauty of Huffman's algorithm lies in its simplicity and effectiveness.
